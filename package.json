@@ -1,0 +1,21 @@
+{
+    "name": "ahiyahiya-dark-blue",
+    "displayName": "AhiyaHiya Dark Blue",
+    "description": "For fans of the WP doc editor colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AhiyaHiya Dark Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AhiyaHiya Dark Blue-color-theme.json"
+            }
+        ]
+    }
+}
