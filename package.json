@@ -15,6 +15,11 @@
                 "label": "AhiyaHiya Dark Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/AhiyaHiya Dark Blue-color-theme.json"
+            },
+            {
+                "label": "AhiyaHiya Light",
+                "uiTheme":"vs",
+                "path": "./themes/AhiyaHiya Light-color-theme.json"
             }
         ]
     }
